@@ -1,0 +1,21 @@
+{
+  "firstName": "Vladimir",
+  "last name": "Antonov",
+  "age": 27,
+  "address": {
+    "country": "Russia",
+    "city": "Moscow",
+    "street": "Nosovikhinskoe highway 19",
+    "flat": 4
+  },
+  "married": true,
+  "kids": false,
+  "pets": true,
+  "pets name": [
+    {
+      "type": "cat",
+      "name": "cat",
+      "age": 5
+    }
+  ]
+}
