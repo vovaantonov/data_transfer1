@@ -1,0 +1,24 @@
+student:
+  name: Vladimir
+  last name: Antonov
+  greeting: "Vladimir \"The student\" Antonov"
+  age: 27
+  height: 1.83
+  weight: 84
+  married: true
+  children: false
+  address:
+    country: Russia
+    city: Moscow
+    street: "Nosovikhinskoe highway 19"
+    flat: 4
+  story: >
+    I like to study.
+    And I love to travel
+  bio: |
+    Worked as a trainer
+    Master of Sports in powerlifting
+    Married for 5 years
+  pets: true,
+  pets name: "Cat"
+  pets age: 5
