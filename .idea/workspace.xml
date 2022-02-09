@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e8c5f7c-6bd4-40aa-9f87-e8eae577f7aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/user.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/user.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/user.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24sKsT6PtrTbsm03Iz4IWDP0EiT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644414061964</updated>
-      <workItem from="1644414063808" duration="5033000" />
+      <workItem from="1644414063808" duration="5775000" />
+      <workItem from="1644436144388" duration="489000" />
     </task>
     <servers />
   </component>

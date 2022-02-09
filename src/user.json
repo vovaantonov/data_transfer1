@@ -10,8 +10,7 @@
   },
   "married": true,
   "kids": false,
-  "pets": true,
-  "pets name": [
+  "pets": [
     {
       "type": "cat",
       "name": "cat",

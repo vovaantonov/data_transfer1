@@ -1,13 +1,13 @@
 <student>
     <FirstName>Vladimir</FirstName>
     <LastName>Antonov</LastName>
-    <Age>27</Age>>,
+    <Age>27</Age>,
     <Nationality>Russia</Nationality>
     <Address>
         <Country>Russia</Country>
-        <City>Moscow</City>>
-        <Street>Nosovikhinskoe highway 19</Street>>
-        <Flat>4</Flat>>
+        <City>Moscow</City>
+        <Street>Nosovikhinskoe highway 19</Street>
+        <Flat>4</Flat>
     </Address>
     <Merried value = "true"/>,
     <Kids value = "false"/>
